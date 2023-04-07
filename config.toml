@@ -1,0 +1,119 @@
+baseURL = 'https://rosalinexiao.github.io/'
+languageCode = 'en-us'
+title = 'Rosaline Xiao - Portfolio'
+
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Home"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "About"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Portfolio"
+    url     = "portfolio"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Resume"
+    url     = "about"
+    weight  = 4
+
+ 
+
+# Site Params
+[params]
+  logo = "images/logo2.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Xiao Xiangyu Portfolio"
+  author = "Rosaline"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  fabform  = "https://fabform.io/f/USAg2Jl"
+
+  # Contact Form
+  [params.contactForm]
+    placeholder_first_name        = "First Name"
+    placeholder_last_name         = "Last Name"
+    placeholder_email             = "Email"
+    placeholder_project_type      = "Project Type"
+    placeholder_about_the_project = "About the Project"
+    send_message                  = "Send Message"
+
+    [[params.contactForm.projectType]]
+      value = "gd"
+      title  = "Graphics Design"
+    [[params.contactForm.projectType]]
+      value = "wd"
+      title  = "Web Design"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/hero-background.jpg"
+    heading               = "Xiangyu Xiao"
+    tagline               = "UX Designer"
+    primary_button        = "UX Design Portfolio"
+    primary_button_url    = "portfolio/ux"
+    secondary_button      = "Industrial Design Portfolio"
+    secondary_button_url  = "portfolio/id"
+
+  [params.portfolio]
+    enable    = true
+    title     = "Portfolio"
+    subtitle  = "Creating experiences that care about user needs and sustainability."
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Contact Info"
+    #   address = "713 Elmwood St.<br>Prior Lake, MN 55372"
+    #   phone   = "409-896-1444"
+      email   = "rosalinexiao520[at]gmail.com"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Sitemap"
+        [[params.footer.sitemap.link]]
+          name = "About me"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "Projects"
+          url  = "portfolio"
+        # [[params.footer.sitemap.link]]
+        #   name = "Blog"
+        #   url  = "blog"
+        [[params.footer.sitemap.link]]
+          name = "Resume"
+          url  = "about"
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Social Media"
+        [[params.footer.social.link]]
+          name = "Instagram"
+          url  = "#"
+        [[params.footer.social.link]]
+          name = "Twitter"
+          url  = "#"
+        # [[params.footer.social.link]]
+        #   name = "Dribbble"
+        #   url  = "#"
+        # [[params.footer.social.link]]
+        #   name = "Instagram"
+        #   url  = "#"
+      # Footer Service
+      [params.footer.service]
+        title       = "What I do:"
+        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"

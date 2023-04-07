@@ -1,0 +1,10 @@
+<center>
+    <iframe 
+    {{ with .Get "style" }} style="{{ . }}" {{ end }} 
+    {{ with .Get "width" }} width="{{ . }}" {{ end }} 
+    {{ with .Get "height" }} height="{{ . }}" {{ end }} 
+    {{ with .Get "src" }} src="{{ . }}" {{ end }} 
+    {{ with .Get "allow" }} allow="{{ . }}" {{ end }} >
+    </iframe>
+</center>
+
