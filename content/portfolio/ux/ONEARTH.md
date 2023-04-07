@@ -8,6 +8,8 @@ image: "images/projects/Onearth/main.jpg"
 category: ["Experience Design"]
 # project_images: ["images/projects/PlantCompanion/plant-main.jpg","images/projects/PlantCompanion/plant-bottom.jpg"]
 ---
+### Energy Saving APP for GenGame
+ONEARTH is an smartphone app in partnership with GenGame energy. Based on a user-centered design approach, ONEARTH targets new parents who are short of money and time and encourages them to use smart meters to ensure the best living conditions for their family, allowing their baby to get the best start in life.
 ### THE BRIEF
 #### WHY CLIMATE CHANGE?
 Climate change happens because large amounts of greenhouse gases are released into the atmosphere as a result of many human activities worldwide, including, most importantly, burning fossil fuels for electricity generation, heating and transport. Climate change can alter our energy generation potential and energy needs.
