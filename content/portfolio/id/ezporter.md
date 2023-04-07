@@ -17,13 +17,27 @@ The idea of EzPorter comes from my own experience in floods. My home town is pro
 {{< figure src="/images/projects/EzPorter/1.jpg" width="100%"  >}}
 {{< youtube gcx3cuVZ5iY >}}
 
-{{< figure src="/images/projects/EzPorter/1.jpg" width="100%"  >}}
+### Background & Secondary Research
 {{< figure src="/images/projects/EzPorter/2.jpg" width="100%"  >}}
 {{< figure src="/images/projects/EzPorter/3.jpg" width="100%"  >}}
+
+### Interview 
 {{< figure src="/images/projects/EzPorter/4.jpg" width="100%"  >}}
+
+### Analysis
 {{< figure src="/images/projects/EzPorter/5.jpg" width="100%"  >}}
+
+### Ideation
 {{< figure src="/images/projects/EzPorter/6.jpg" width="100%"  >}}
-{{< figure src="/images/projects/EzPorter/7.jpg" width="100%"  >}}
+
+### Sketches
 {{< figure src="/images/projects/EzPorter/8.jpg" width="100%"  >}}
+
+### Model Display
+{{< figure src="/images/projects/EzPorter/7.jpg" width="100%"  >}}
+
+### Function Display
 {{< figure src="/images/projects/EzPorter/9.jpg" width="100%"  >}}
+
+### Model Making & User Tests
 {{< figure src="/images/projects/EzPorter/10.jpg" width="100%"  >}}
