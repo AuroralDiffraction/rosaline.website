@@ -4,7 +4,7 @@ date: 2023-03-21T23:45:46+06:00
 draft: false
 type: portfolio
 tags: ["3D modelling", "Tableware", "Creative design"]
-image: "images/projects/bento/main.jpg"
+image: "images/projects/bento/main2.jpg"
 category: ["Product Design"]
 # project_images: ["images/projects/PlantCompanion/plant-main.jpg","images/projects/PlantCompanion/plant-bottom.jpg"]
 ---

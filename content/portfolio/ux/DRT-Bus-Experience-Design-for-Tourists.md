@@ -13,6 +13,19 @@ category: ["UX Design for Advanced Technology"]
 
 ### Introduction
 
+This project is a group work with three other students. 
+
+**Team Leader: Xiangyu Xiao (me)**
+
+Team members:
+- Jingkun Wei
+- Mengze Cai
+- Rhys Taylor
+
+As the team leader, I am responsible for the overall project management, data analysis, determining the main features, prototype iteration, and video production.
+
+Jingkun Wei is responsiblefor the user reseach, Mengze Cai is responsible for making the prototype, user evaluation and reflection, Rhys Taylor is responsible for the design book.
+
 **UN Goal background** 
 
 The goal for this project is UN Goal No.11 
@@ -41,11 +54,12 @@ To achieve these goals, we decided to improve the bus ride experience by designi
 #### Research Method
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/4.jpg" width="100%"  >}}
 
-#### Pilot Study
+#### Pilot Study 
+_This part is done by my team member._
 ##### Discovering Opportunities
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/5.jpg" width="60%"  >}}
 
-Before The Journey
+<!-- Before The Journey
 - Bus stop is hard to find and usually cost a long time to get there
 
 During The Journey
@@ -70,7 +84,7 @@ App Using Experience
 3. “Public transport is not often enough going where you need it to go”
 4. “Public transport is not as convenient as it should be to appeal to people”
 5. “Have to wait in rough areas at night as a woman”
-6. “When you get on a bus now, you have no idea how much it will cost”
+6. “When you get on a bus now, you have no idea how much it will cost” -->
 
 #### As-is Scenario
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/6.jpg" width="100%"  >}}
@@ -123,6 +137,7 @@ Focus group
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/14.jpg" width="100%"  >}}
 
 #### Ideation Methods
+_This part is done together._
 - Mind Mapping
 - Brain Storming
 - Crazy 8s
@@ -137,7 +152,7 @@ Focus group
 
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/17.jpg" width="100%"  >}}
 
-The advanced technology that can be implemented into this project are AR, VR, AI and DRT. 
+<!-- The advanced technology that can be implemented into this project are AR, VR, AI and DRT. 
 -	AR can provide a clear reality guidance by augmenting map instructions into the real world
 -	VR can provide immersive experiences which is beneficial to promoting environmental awareness and behavior change
 -	DRT can provide convenient travel service and experiences
@@ -146,24 +161,24 @@ The advanced technology that can be implemented into this project are AR, VR, AI
 Some technology were not selected.
 -	MR, because it did not suit our target goals
 -	AR goggles, because they are bulky and not convenient or accessible to tourists
--	Transparent OLED displays, because transparent displays can only be mounted on the bus windows and it would not work when there are many people looking at different directions.
+-	Transparent OLED displays, because transparent displays can only be mounted on the bus windows and it would not work when there are many people looking at different directions. -->
 
 #### Vision Statement
 
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/18.jpg" width="100%"  >}}
 
 ### Designing
-#### Methodology for Co-Design
+<!-- #### Methodology for Co-Design
 **Co-design** is an approach that involves collaboration and participation of multiple stakeholders in the design process. In the context of designing a DRT bus experience for tourists, co-design methodology can be an effective way to ensure that the final design meets the needs and expectations of tourists.
 
 2 tourists that are target users participated
 - Select their preferred features
 - Describe their mood
 - Tell their ideas and suggestions
-- Take part in experiencing interactive presentations and prototypes
+- Take part in experiencing interactive presentations and prototypes -->
 
 #### Key Components and Feature
-
+_This part is done together._
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/19.jpg" width="100%"  >}}
 
 **Combining DRT bus with AI**
@@ -181,6 +196,7 @@ Some technology were not selected.
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/20.jpg" width="100%"  >}}
 
 #### Body Storming
+_This part is done together._
 
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/21.jpg" width="100%"  >}}
 
@@ -191,6 +207,7 @@ Some technology were not selected.
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/23.jpg" width="100%"  >}}
 
 #### Refined Key Features
+
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/24.jpg" width="100%"  >}}
 
 #### Journey Map Iteration
@@ -198,13 +215,17 @@ Some technology were not selected.
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/25.jpg" width="100%"  >}}
 
 #### Prototyping
+_This part is done by my team member._
+
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/26.jpg" width="100%"  >}}
 
 #### User Test of the First APP Design
+_This part is done by my team member._
+
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/27.jpg" width="100%"  >}}
 
 #### Context Scenario
-**STAGE 1　On the plane**
+**STAGE 1　On the plane** _Stage 1 is done by my team member._
 
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/28.jpg" width="100%"  >}}
 
@@ -238,6 +259,8 @@ During the bus journey:
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/35.jpg" width="100%"  >}}
 
 ### Reflection
+_This part is done together._
+
 **Reflection on our UN goals**
 
 By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport.
@@ -269,6 +292,7 @@ Expanding public transport
 {{< figure src="/images/projects/DRT-Bus-Experience-Design-for-Tourists/36.jpg" width="100%"  >}}
 
 #### Future Iterations
+_This part is done together._
 
 VR  
 
