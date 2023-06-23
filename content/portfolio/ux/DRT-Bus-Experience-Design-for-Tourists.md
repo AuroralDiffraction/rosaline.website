@@ -15,16 +15,13 @@ category: ["UX Design for Advanced Technology"]
 
 This project is a group work with three other students. 
 
-**Team Leader: Xiangyu Xiao (me)**
+**Team Leader: Xiangyu Xiao (me)**：As the team leader, I am responsible for the overall project management, data analysis, determining the main features, prototype iteration, and video production.
 
 Team members:
-- Jingkun Wei
-- Mengze Cai
-- Rhys Taylor
+- Jingkun Wei: Responsible for the user reseach
+- Mengze Cai: Responsible for making the prototype, user evaluation and reflection
+- Rhys Taylor: Responsible for the design book
 
-As the team leader, I am responsible for the overall project management, data analysis, determining the main features, prototype iteration, and video production.
-
-Jingkun Wei is responsiblefor the user reseach, Mengze Cai is responsible for making the prototype, user evaluation and reflection, Rhys Taylor is responsible for the design book.
 
 **UN Goal background** 
 
