@@ -1,6 +1,6 @@
 ---
 title: "DRT Bus Experience Design for Tourists"
-date: 2023-03-20T22:36:45+01:00
+date: 2023-05-20T22:36:45+01:00
 draft: false
 type: portfolio
 tags: ["Advanced Technology", "UX Design", "AR", "VR", "Interactive Design", "APP"]

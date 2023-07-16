@@ -1,6 +1,6 @@
 ---
 title: "Eco Circle - An APP that increases recycling rates for Uni-campuses in collaboration with TPXimpact"
-date: 2023-03-20T22:35:45+01:00
+date: 2023-05-20T22:35:45+01:00
 draft: false
 type: portfolio
 tags: ["industry project","sustainable design"]

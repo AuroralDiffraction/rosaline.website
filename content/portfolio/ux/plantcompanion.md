@@ -1,6 +1,6 @@
 ---
 title: "PLANT COMPANION"
-date: 2023-03-21T20:56:42+06:00
+date: 2023-05-21T20:56:42+06:00
 type: portfolio
 tags: ["Human-Plant Interaction", "Loneliness", "Arduino", "Interactive Design"]
 image: "images/projects/PlantCompanion/toppic.jpg"

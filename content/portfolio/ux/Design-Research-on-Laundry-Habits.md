@@ -1,6 +1,6 @@
 ---
 title: "Design Research on Laundry Habits in Loughborough"
-date: 2023-03-19T03:09:37+01:00
+date: 2023-05-19T03:09:37+01:00
 draft: false
 type: portfolio
 tags: ["Design Research Methods", "Laundry", "Behavior and Habits"]

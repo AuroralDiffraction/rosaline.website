@@ -1,6 +1,6 @@
 ---
 title: "S-Scooter - A sustainable way to travel in the 15-minute neighborhood in Loughborough"
-date: 2023-03-18T03:12:52+01:00
+date: 2023-05-18T03:12:52+01:00
 draft: false
 type: portfolio
 tags: ["sustainable mobility", "scooter", "smart mobility", "interactive design"]
