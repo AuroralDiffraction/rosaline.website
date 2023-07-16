@@ -4,11 +4,12 @@ date: 2023-06-19T00:30:46+02:00
 draft: false
 type: portfolio
 tags: ["sustainable mobility", "scooter", "smart mobility", "interactive design"]
-image: "images/projects/S-Scooter/main.jpg"
+image: "images/projects/S-Scooter/main2.png"
 category: ["Mobility"]
 # project_images: ["images/projects/PlantCompanion/plant-main.jpg","images/projects/PlantCompanion/plant-bottom.jpg"]
 ---
 
+{{< youtube nkuG6gH-vTM >}}
 
 ### THE PROBLEM BEING TACKLED
 #### Brief
@@ -111,7 +112,7 @@ card swiping for scooter unlocking, thereby enhancing user
 convenience.
    - S-Scooter offers **AR / Voice navigation**
 
-{{< youtube nkuG6gH-vTM >}}
+
 
 ### NEXT STEPS
 #### Our Business Proposition
