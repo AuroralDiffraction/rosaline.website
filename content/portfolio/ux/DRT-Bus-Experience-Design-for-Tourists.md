@@ -9,7 +9,13 @@ category: ["UX Design for Advanced Technology"]
 # project_images: ["images/projects/PlantCompanion/plant-main.jpg","images/projects/PlantCompanion/plant-bottom.jpg"]
 ---
 
+Bus travel is efficient and sustainable yet restricts travellers to long fixed routes. Issues including difficulty locating bus stops, feelings of insecurity while waiting, and boredom contribute to tourists opting for unsustainable single-occupancy options like Uber. 
 
+However, according to the data from Transport & Environment, PHV drivers in England (including Uber drivers) produced over 81% of the total amount of CO2 in the UK. 
+
+We aimed to create an innovative bus travel experience using VR and AR to improve enjoyment, flexibility, and convenience. Our VR scenario demonstrates the bus travel’s advantages and positive environmental impact. Our AR guides passengers to virtual bus stops, encouraging bus travel selection. User testing applied physical storms, SUS Testing, and USE scoreboards to verify user interest and behavioural change.
+
+To promote bus travel to tourists in Europe’s most visited cities, we need only upload new videos and geo-location information to scale the concept fast.
 
 ### Introduction
 

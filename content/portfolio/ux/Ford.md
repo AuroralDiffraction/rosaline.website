@@ -1,6 +1,6 @@
 ---
 title: "S-Scooter"
-date: 2023-06-19T00:30:46+02:00
+date: 2023-03-18T03:12:52+01:00
 draft: false
 type: portfolio
 tags: ["sustainable mobility", "scooter", "smart mobility", "interactive design"]
