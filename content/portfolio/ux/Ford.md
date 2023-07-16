@@ -1,5 +1,5 @@
 ---
-title: "S-Scooter"
+title: "S-Scooter - A sustainable way to travel in the 15-minute neighborhood in Loughborough"
 date: 2023-03-18T03:12:52+01:00
 draft: false
 type: portfolio

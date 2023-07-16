@@ -1,11 +1,11 @@
 ---
-title: "TPX Industry Project: Eco Circle"
+title: "Eco Circle - An APP that increases recycling rates for Uni-campuses in collaboration with TPXimpact"
 date: 2023-03-20T22:35:45+01:00
 draft: false
 type: portfolio
 tags: ["industry project","sustainable design"]
-image: "images/projects/industryProject/main.jpg"
-category: ["Sustainable Design"]
+image: "images/projects/industryProject/main2.png"
+category: ["Sustainable Experience Design"]
 # project_images: ["images/projects/PlantCompanion/plant-main.jpg","images/projects/PlantCompanion/plant-bottom.jpg"]
 ---
 
